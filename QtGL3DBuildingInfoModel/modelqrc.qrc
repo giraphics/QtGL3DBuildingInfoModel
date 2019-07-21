@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/BinaryModel">
+        <file>BIMhouse.model</file>
+    </qresource>
+</RCC>
