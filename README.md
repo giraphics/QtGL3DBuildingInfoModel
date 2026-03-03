@@ -2,7 +2,7 @@
 
 **A minimal Qt + OpenGL app that loads and renders a 3D building from a binary BIM model—proof that you can embed real-time 3D inside an ordinary dialog.**
 
-![3D building rendered in a Qt dialog](output.png)
+![3D building rendered in a Qt dialog](Output.png)
 
 ---
 
